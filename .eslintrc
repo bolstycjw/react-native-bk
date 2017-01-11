@@ -1,0 +1,14 @@
+{
+  "extends": ["react-native"],
+  "rules": {
+      "import/no-namespace": "off",
+      "react-native/no-color-literals": "off",
+      "class-methods-use-this": "off",
+      "react/prop-types": "off",
+      "no-console": "off",
+      "no-invalid-this": "off",
+      "react/prefer-stateless-function": "off",
+      "react/jsx-handler-names": "off",
+      "import/no-common-js": "off"
+    }
+}
